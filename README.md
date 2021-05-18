@@ -1,2 +1,2 @@
 # projeto-netflix
-Nesse projeto, usaremos as tecnologias web (HTML, CSS e JS).
+Nesse projeto, usaremos as tecnologias web (HTML, CSS, jQUERY e JS).
